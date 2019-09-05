@@ -6,15 +6,15 @@ description: 'F3DO has a nice Moderation system, with commands like mute, kick o
 
 **All the commands:**
 
-/mute @user \(time\) \(reason\)
+/mute @user (reason)
 
 /unmute @user
 
-/​kick @user \(reason\)
+/kick @user (reason)
 
-/​ban @user \(reason\)
+/ban @user (reason)
 
-/​purge \(number of messages\)
+/purge (number of messages)
 
-**y**
+
 
