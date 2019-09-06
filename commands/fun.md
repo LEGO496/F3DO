@@ -6,3 +6,4 @@ description: >-
 
 # Fun
 
+**All the commands:**
