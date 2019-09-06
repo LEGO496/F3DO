@@ -7,3 +7,7 @@ description: >-
 # Fun
 
 **All the commands:**
+
+/8ball (question) - Ask questions to the bot!
+
+/cookie - Gives you a cookie!
