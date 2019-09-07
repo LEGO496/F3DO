@@ -8,6 +8,7 @@ description: >-
 
 **All the commands:**
 
-**/8ball** (question) - Ask questions to the bot!
+**/8ball** \(question\) - Ask questions to the bot!
 
 **/cookie** - Gives you a cookie!
+
