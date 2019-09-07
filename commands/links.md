@@ -4,3 +4,8 @@ description: Here you will find commands about LEGO_496 social media or any othe
 
 # Links
 
+**All the commands:**
+
+/socials
+
+/link
