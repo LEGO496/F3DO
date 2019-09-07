@@ -14,5 +14,9 @@ Click ​this link and tap the “Invite” button: [https://discordbots.org/bot
 
 Click this link and tap the “Accept Invite” button: [https://discord.gg/9XDFhRp](https://discord.gg/9XDFhRp)
 
+## How was this bot created?
+
+This bot was created with 'discord.js'.
+
 
 
