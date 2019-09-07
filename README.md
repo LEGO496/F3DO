@@ -12,7 +12,7 @@ Click this link and tap the “Invite” button: [https://discordbots.org/bot/61
 
 ## How was this bot created?
 
-This bot was created with 'discord.js'.
+LEGO_496 created this bot, with help of a friend called DmmD. This bot was created with discord.js
 
 
 
