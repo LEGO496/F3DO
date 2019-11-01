@@ -5,5 +5,5 @@
   * [Moderation](commands/moderation.md)
   * [Fun](commands/fun.md)
   * [Links](commands/links.md)
-* [Support](untitled.md)
+* [Support](support.md)
 
